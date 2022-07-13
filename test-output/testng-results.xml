@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="10" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-13T10:49:03 IST" name="Default suite" finished-at="2022-07-13T10:49:03 IST" duration-ms="243">
+    <groups>
+      <group name="ecar">
+        <method signature="TestNGFrameWork.car()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" name="car" class="SelaniumAdv.TestNGFrameWork"/>
+      </group> <!-- ecar -->
+      <group name="car">
+        <method signature="TestNGFrameWork.car()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" name="car" class="SelaniumAdv.TestNGFrameWork"/>
+        <method signature="TestNGFrameWork.car1()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" name="car1" class="SelaniumAdv.TestNGFrameWork"/>
+        <method signature="TestNGFrameWork.car2()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" name="car2" class="SelaniumAdv.TestNGFrameWork"/>
+      </group> <!-- car -->
+      <group name="sedan">
+        <method signature="TestNGFrameWork.car1()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" name="car1" class="SelaniumAdv.TestNGFrameWork"/>
+      </group> <!-- sedan -->
+    </groups>
+    <test started-at="2022-07-13T10:49:03 IST" name="Default test" finished-at="2022-07-13T10:49:03 IST" duration-ms="243">
+      <class name="SelaniumAdv.TestNGFrameWork">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeSuite" finished-at="2022-07-13T10:49:03 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeTest" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeClass" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="car()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="car" finished-at="2022-07-13T10:49:03 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="car1()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="car1" finished-at="2022-07-13T10:49:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="car2()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="car2" finished-at="2022-07-13T10:49:03 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car2 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="f(java.lang.Integer,java.lang.String)[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="f" finished-at="2022-07-13T10:49:03 IST" duration-ms="0" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Method public void SelaniumAdv.TestNGFrameWork.f(java.lang.Integer,java.lang.String) requires a @DataProvider named : dp]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Method public void SelaniumAdv.TestNGFrameWork.f(java.lang.Integer,java.lang.String) requires a @DataProvider named : dp
+at org.testng.internal.Parameters.findDataProvider(Parameters.java:516)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:739)
+at org.testng.internal.Parameters.handleParameters(Parameters.java:704)
+at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:70)
+at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:49)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:904)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:808)
+at org.testng.TestRunner.run(TestRunner.java:603)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+at org.testng.SuiteRunner.run(SuiteRunner.java:326)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+at org.testng.TestNG.runSuites(TestNG.java:1092)
+at org.testng.TestNG.run(TestNG.java:1060)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="login" finished-at="2022-07-13T10:49:03 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="dashboard()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="dashboard" finished-at="2022-07-13T10:49:03 IST" depends-on-methods="SelaniumAdv.TestNGFrameWork.login" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashboard -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="logout()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="logout" finished-at="2022-07-13T10:49:03 IST" depends-on-methods="SelaniumAdv.TestNGFrameWork.dashboard" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test02()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="test02" finished-at="2022-07-13T10:49:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="beforeMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test03()[pri:1, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="test03" finished-at="2022-07-13T10:49:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterMethod" finished-at="2022-07-13T10:49:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterClass" finished-at="2022-07-13T10:49:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterTest" finished-at="2022-07-13T10:49:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:SelaniumAdv.TestNGFrameWork@d737b89]" started-at="2022-07-13T10:49:03 IST" name="afterSuite" finished-at="2022-07-13T10:49:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- SelaniumAdv.TestNGFrameWork -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
