@@ -1,6 +1,7 @@
 # Selanium_Total
 
-HOW TO ADD Folder here VIA git bash
+HOW TO ADD Folder ON GITHUB VIA git bash
+
 
 Open Git Bash
 git --version
